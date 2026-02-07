@@ -10,5 +10,4 @@ You can get the print version of the book at http://bioinformaticsalgorithms.com
 ## Motivation
 
 Bioinformatics algorithms offer many chances to demonstrate  how the flexible anf fast Julia language can be used to implement algorithms in a concise and hopefully easy to understand way that often closely matches the documentation.
-# JuliaAI
-Julia tools for AI
+
