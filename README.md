@@ -11,3 +11,7 @@ You can get the print version of the book at http://bioinformaticsalgorithms.com
 
 Bioinformatics algorithms offer many chances to demonstrate  how the flexible anf fast Julia language can be used to implement algorithms in a concise and hopefully easy to understand way that often closely matches the documentation.
 
+## Julia tools for Artificial Intelligence 
+
+The main branch contains a Julia Transformer implementation.
+
