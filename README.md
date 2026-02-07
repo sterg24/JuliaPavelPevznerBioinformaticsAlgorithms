@@ -13,5 +13,5 @@ Bioinformatics algorithms offer many chances to demonstrate  how the flexible an
 
 ## Julia tools for Artificial Intelligence 
 
-The main branch contains a Julia Transformer implementation.
+The master branch contains a Julia Transformer implementation.
 
